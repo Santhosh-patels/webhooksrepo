@@ -9,3 +9,4 @@ fi
 done
 cat results.txt
 echo Hi
+echo hi
